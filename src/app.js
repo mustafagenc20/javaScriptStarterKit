@@ -76,3 +76,11 @@ function someFunction([small1],number) {
     console.log(small1)
 }
 someFunction(populations)
+
+let category = {id:1,name:"drinks"}
+console.log(category.id)
+console.log(category["name"])
+
+let {id,name} = category
+console.log(id)
+console.log(name)
