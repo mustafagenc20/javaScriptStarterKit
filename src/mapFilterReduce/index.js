@@ -2,7 +2,7 @@ let products = [
     {id:1, name:"Acer LAptop", unitPrice:15000},
     {id:1, name:"Asus LAptop", unitPrice:16000},
     {id:1, name:"Hp LAptop", unitPrice:13000},
-    {id:1, name:"Dell LAptop", unitPrice:12000},
+    {id:1, name:"Dell Laptop", unitPrice:12000},
     {id:1, name:"Casper Laptop", unitPrice:17000}
 ]
 
